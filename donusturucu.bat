@@ -1,0 +1,1 @@
+pyuic5 arayuz.ui -o arayuz.py
