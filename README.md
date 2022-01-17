@@ -9,9 +9,9 @@ Bu proje benim bir işime yaramadı ancak belki farklı arkadaşların işine ya
 - PySide2
 - Qt Designer
 
-**Not: Projede sadece arayüz bulunmaktadır. Butonları çalıştırmak için ilgili fonksiyonları yazmadım. Python dronekit kütüphanesi ile kolayca drone'dan veri alabilir. Kolayca projeyi ilerletebilirsiniz. **
+**Not: Projede sadece arayüz bulunmaktadır. Butonları çalıştırmak için ilgili fonksiyonları yazmadım. Python dronekit kütüphanesi ile kolayca drone'dan veri alabilir. Kolayca projeyi ilerletebilirsiniz.**
 
-**Not 2: Proje içerisinde "arayuz.ui" dosyası bulunmaktadır. Bu dosyayı Qt Designer programı ile açıp tasarım yapabilirsiniz. Yaptığınız tasarımı kaydettikten sonra, "donusturucu.bat" dosyası ile "arayuz.ui" dosyasını "arayuz.py" dosyası haline getirebilirsiniz. "main.py" dosyasında "arayuz.py" dosyası import edilmiştir. Bu sayede ilgili butonlara vs. erişebilirsiniz. **
+**Not 2: Proje içerisinde "arayuz.ui" dosyası bulunmaktadır. Bu dosyayı Qt Designer programı ile açıp tasarım yapabilirsiniz. Yaptığınız tasarımı kaydettikten sonra, "donusturucu.bat" dosyası ile "arayuz.ui" dosyasını "arayuz.py" dosyası haline getirebilirsiniz. "main.py" dosyasında "arayuz.py" dosyası import edilmiştir. Bu sayede ilgili butonlara vs. erişebilirsiniz.**
 
 ## Ekran Görüntüleri
 ![image](https://user-images.githubusercontent.com/14194362/149814052-2be0c050-f225-4a9d-a09d-521fde467db8.png)
